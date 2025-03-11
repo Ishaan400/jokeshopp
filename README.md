@@ -2,7 +2,7 @@
 
 A RESTful API backend for the Joke Shop e-commerce platform, built with Node.js, Express, and MongoDB.
 
-> **Note**: The frontend for this application is built with React and can be accessed at [bolt.new](https://bolt.new)
+> **Note**: The frontend for this application is built using AI.
 
 ## API Endpoints
 
